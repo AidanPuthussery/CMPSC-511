@@ -9,3 +9,6 @@ If you are using a webcam. change this part of the code for both the module and 
 cap = cv2.VideoCapture(0)
 
 the device might be a different index, so a webcam might not be at index 0 if you already have a webcam installed on your laptop, so switch accordingly or else you will receive an error. 
+
+
+Download Mediapipe, and also OpenCV, this can be through the command prompt and the terminal. 
